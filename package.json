@@ -1,0 +1,14 @@
+{
+  "name": "startgatsby-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ankit <iankit17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "2.4.2",
+    "gatsby-plugin-compile-es6-packages": "1.1.0",
+    "gatsby-theme-startgatsby": "1.0.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
